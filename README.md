@@ -1,5 +1,5 @@
 Peaky Motel
-live Link - https://assignment-8-114f3.web.app
+live Link - https://peaky-motel.netlify.app/
 Features and Characteristics
 1) This is classic resort booking website you can get 6 different resort from here
 2) You can login to check the details of the resort
